@@ -1,7 +1,9 @@
 # 👋 Hi there, I'm Tuong
 
 🎓 **Computer Science Student at Moscow Institute of Physics and Technology (MIPT)**
+
 💻 Aspiring **Front-End Developer**
+
 🎨 Photographer | Designer | Video Editor
 
 ---
