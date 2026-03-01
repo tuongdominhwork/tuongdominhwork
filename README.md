@@ -17,7 +17,7 @@ Currently, I am pursuing the path of becoming a professional **Front-End Develop
 ---
 
 ## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,nodejs,express,py,cpp,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,py,cpp,java)](https://skillicons.dev)
 
 ### 💻 Core Technologies
 
