@@ -79,17 +79,6 @@ I am particularly interested in:
 
 ---
 
-## 🌱 Long-Term Goal
-
-To become a **Front-End / AI Engineer** capable of building:
-
-- Intelligent web applications  
-- AI-powered user experiences  
-- High-performance modern interfaces  
-- Scalable full-stack AI systems  
-
----
-
 ## 📸 Creative Side
 
 My background in photography and visual design helps me:
