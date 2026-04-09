@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Tuong
 
 🎓 **Computer Science Student at Moscow Institute of Physics and Technology (MIPT)**  
-💻 **Front-End Developer | AI Engineering Enthusiast**  
+💻 **FullStack Developer | AI Engineering Enthusiast**  
 🎨 Photographer | Designer | Video Editor  
 
 ---
@@ -12,7 +12,7 @@ I am a Computer Science student at **MIPT**, one of the leading technical univer
 
 Beyond coding, I have a deep passion for **photography, design, and video editing** — which naturally shapes my aesthetic sense and user-centered thinking in web development.
 
-Currently, I am pursuing the path of becoming a **Front-End Engineer with AI Engineering capabilities**, focusing on building **modern, intelligent, and visually engaging web applications**.
+Currently, I am pursuing the path of becoming a **FullStack Engineer with AI Engineering capabilities**, focusing on building **modern, intelligent, and visually engaging web applications**.
 
 I am particularly interested in:
 
